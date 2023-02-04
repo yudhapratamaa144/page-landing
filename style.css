@@ -1,0 +1,58 @@
+.header {
+    background-color: #6A8FB1;
+}
+
+.navbar {
+    padding: 20px 0;
+}
+
+.navbar-brand {
+    font-size: 23px;
+    font-weight: bold;
+    color: #f5deb3;
+}
+
+.navbar-brand span {
+    font-weight: 800;
+    color: white;
+}
+.nav-link {
+    margin-left: 41px;
+    color: white;
+}
+
+section.hero {
+    padding: 80px 0;
+}
+
+section.hero .text {
+    font-size: 24px;
+    line-height: 73px;
+    font-family: poppins;
+    color: #ff4500;
+}
+
+section.hero .text2 {
+    font-size: 48px;
+    font-family: poppins;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+section.hero .text3 {
+    font-size: 21px;
+    color: black;
+    font-weight: 200;
+}
+
+
+.buttons {
+    padding-top: 69px;
+}
+
+.buttons .btn {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+    color: white;
+}
